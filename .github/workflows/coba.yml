@@ -25,7 +25,7 @@ jobs:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_TOKEN }}
 
-      - name: Build and pushDocker image
+      - name: Build and push Docker image
         uses: docker/build-push-action@v5
         with:
           context: .
