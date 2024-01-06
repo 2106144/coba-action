@@ -55,8 +55,8 @@
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "yaml.schemas": {
     "https://json.schemastore.org/github-action.json": [
-      "untitled:/c%3A/Users/Acer/Documents/projects/Learn-action/.github/workflows/action.yml",
-      "file:///c%3A/Users/Acer/Documents/projects/coba-action/.github/workflows/coba.yml"
-    ]
+      "untitled:/c%3A/Users/Acer/Documents/projects/Learn-action/.github/workflows/action.yml"
+    ],
+    "https://json.schemastore.org/sourcehut-build-0.65.0.json": "file:///c%3A/Users/Acer/Documents/projects/coba-action/.github/workflows/coba.yml"
   }
 }

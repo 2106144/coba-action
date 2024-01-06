@@ -3,7 +3,7 @@ FROM node:20-alpine as stage
 WORKDIR /src/app
 COPY . .
 RUN npm istall
-RUN npm build
+RUN npm run build
 
 FROM node:20-alpine
 
